@@ -1,5 +1,5 @@
-# BeerApp
-
+# Payment-Gateway App
+Unzip the paymentGateway.zip file and import that directory and run npm install.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.2.
 
 ## Development server
